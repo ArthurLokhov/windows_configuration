@@ -7,6 +7,8 @@
 dotnet --list-sdks
 dotnet --list-runtimes
 dotnet new --list
+dotnet nuget list source
+dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org # If previous line has empty output.
 ```
 3. Download [`dotPeek`](https://www.jetbrains.com/decompiler/) and install it.
 
