@@ -121,7 +121,6 @@ symbol = ".NET "
 detect_extensions = ["csproj", "fsproj", "xproj", "sln"]
 detect_files = ["global.json", "project.json", "Directory.Build.props", "Directory.Build.targets", "Packages.props"]
 style = "bold blue"
-"clcreative-k8s-production" = "cl-k8s-prod"
 ```
 
 ## Poweshell configuration

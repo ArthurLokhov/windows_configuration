@@ -10,9 +10,7 @@ dotnet new --list
 dotnet nuget list source
 dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org # If previous line has empty output.
 ```
-3. Download [`dotPeek`](https://www.jetbrains.com/decompiler/) and install it.
-
-4. Download [`Visual Studio 2022 Build Tools`](https://aka.ms/vs/17/release/vs_BuildTools.exe) and install it.
+3. Download [`Visual Studio 2022 Build Tools`](https://aka.ms/vs/17/release/vs_BuildTools.exe) and install it.
 
 ## Install other software
 1. Download `Windows Terminal` from `MS Store`.
